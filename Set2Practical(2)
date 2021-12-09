@@ -1,5 +1,3 @@
-// CPP code to create three child
-// process of a parent
 #include <stdio.h>
 #include <stdlib.h>
 #include <unistd.h>
